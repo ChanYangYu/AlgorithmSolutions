@@ -4,8 +4,6 @@ int ch[10];
 int num[10];
 char op[10];
 vector<string> a;
-long long mx = -9876543210;
-long long mn = 9876543210;
 int k;
 
 void dfs(int n){
