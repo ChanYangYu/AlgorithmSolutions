@@ -34,7 +34,7 @@ int main(void){
 			cnt += m;
 			//가장 유력한 최대길이를 선정 
 			if(next_best < c)
-				next_best = c;
+				74
 		}
 		//개수가 n개이상이면 종료 
 		if(cnt >= n)
