@@ -5,6 +5,7 @@
 - 부르트 포스
 - 시뮬레이션과 구현
 - BFS & DFS
+- 문자열
 ### Programmers
 - 다이나믹 프로그래밍
 ### SW Expert Academy
