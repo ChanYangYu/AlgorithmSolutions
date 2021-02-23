@@ -1,5 +1,6 @@
 # AlgorithmSolutions
 ## 디렉토리 구성
+### AlgoSpot
 ### BaeckJoon
 - 다이나믹 프로그래밍
 - 부르트 포스
