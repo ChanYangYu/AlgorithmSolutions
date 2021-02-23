@@ -12,7 +12,7 @@
 ### :star: SW Expert Academy
 - D3
 ### :star: LeetCode
-- string
+- Top 100 Linked Questions
 ## 출처
 - 백준 : https://www.acmicpc.net/
 - 프로그래머스 : https://programmers.co.kr/
