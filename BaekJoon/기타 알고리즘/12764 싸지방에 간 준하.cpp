@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 	
 	sort(v.begin(), v.end());
 	
-	//computer -> 종료시각, 사용컴퓨터 번호 
+	//computer -> 종료시각, 사용컴퓨터 번호
 	priority_queue<pair<int, int> > computer;
 	//현재 빈 컴퓨터 번호
 	priority_queue<int> wait;
