@@ -8,6 +8,8 @@
 - BFS & DFS
 - 문자열
 ### :star: Programmers
+- 2021 KAKAO BLIND RECRUITMENT
+- 그래프
 - 다이나믹 프로그래밍
 ### :star: SW Expert Academy
 - D3
