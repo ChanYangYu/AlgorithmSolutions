@@ -27,12 +27,11 @@ int main() {
 		
 		sort(info.begin(), info.end(), comp);
 		
-		//total 초깃값 : 데우는 시간 
+		//초깃값 세팅 
 		total = info[0].second;
-		//eat 초깃값 : 먹는데 걸리는 시간 
 		eat = info[0].first;
 		
-		//먹는시간이 가장 오래걸리는 순서부터 배급 
+		//먹는시간이 가장 오래 걸리는 순으로 데운다. 
 		for(int i = 1; i < n; i++){
 			total += info[i].second;
 			eat -= info[i].second;
