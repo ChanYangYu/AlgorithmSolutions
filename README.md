@@ -1,6 +1,7 @@
 # :sunglasses: AlgorithmSolutions
 ## Directory
 ### :star: AlgoSpot
+### :star: Softeer
 ### :star: BaeckJoon
 - 다이나믹 프로그래밍
 - 부르트 포스
