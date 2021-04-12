@@ -5,8 +5,6 @@ int main(int argc, char** argv)
 {
     cin.tie(0);
     //freopen("input.txt","rt",stdin);
-    unordered_map<int, int> a;
-	
 	int t;
 	
 	cin>>t;
