@@ -15,9 +15,9 @@ int solve(int pos){
 	//2x1 鸥老 
 	ret = solve(pos+1) % 10007;
 	
-	//1x2 鸥老 
+	//2x1 鸥老, 2x2鸥老 
 	if(pos + 2 <= n)
-		ret += solve(pos+2) % 10007;
+		ret += (2 * solve(pos+2)) % 10007;
 	
 	return ret % 10007;
 }
