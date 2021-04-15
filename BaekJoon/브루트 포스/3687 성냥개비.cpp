@@ -2,8 +2,10 @@
 using namespace std;
 
 int num[10] = {6,2,5,5,4,5,6,3,7,6};
+//1자리 수의 최솟값 
 int one[9] = {0,0,1,7,4,2,6,8};
 int res[201];
+//현재 자릿수 = pos, 남아있는 개수 = remain, 남은 자릿수 = digit
 int solve(int pos, int remain, int digit){
 	if(digit == 0)
 		return 1;
@@ -36,6 +38,7 @@ int solve(int pos, int remain, int digit){
 		}
 	}
 	
+	//만들 수 없는 경우 
 	return 0; 
 	
 }
@@ -61,7 +64,7 @@ string get_best(int n){
 int main(int argc, char** argv)
 {
     cin.tie(0);
-    freopen("input.txt","rt",stdin);
+    //freopen("input.txt","rt",stdin);
     int t;
     
     cin>>t;
@@ -82,6 +85,7 @@ int main(int argc, char** argv)
     		if(n % 7 != 0)
     			digit++;
     		
+    		//자릿수가 추가될수록 숫자가 더크다. 
     		solve(0, n, digit);
     		
     		for(int i = 0; i < digit; i++)
