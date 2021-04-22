@@ -1,25 +1,30 @@
 # :sunglasses: AlgorithmSolutions
 ## Directory
 ### :star: AlgoSpot
-### :star: Softeer
 ### :star: BaeckJoon
+- BFS & DFS
+- Greedy
+- 그래프
+- 기타 알고리즘
 - 다이나믹 프로그래밍
+- 문자열
 - 부르트 포스
 - 시뮬레이션과 구현
-- BFS & DFS
-- 문자열
 ### :star: Programmers
+- 2019 카카오 개발자 겨울 인턴십
 - 2021 KAKAO BLIND RECRUITMENT
 - 그래프
 - 다이나믹 프로그래밍
-### :star: SW Expert Academy
-- D3
+- 힙(Heap)
 ### :star: LeetCode
 - Top 100 Linked Questions
+### :star: Softeer
+### :star: SW Expert Academy
+- D3
 ## 출처
 - 백준 : https://www.acmicpc.net/
 - 프로그래머스 : https://programmers.co.kr/
 - SW Expert Academy : https://swexpertacademy.com/
 - 알고스팟 : https://algospot.com/
 - LeetCode : https://leetcode.com/
-
+- softeer : https://softeer.ai/practice/index.do
