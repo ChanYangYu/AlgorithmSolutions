@@ -1,4 +1,7 @@
 # :sunglasses: AlgorithmSolutions
+## Type of file
+- .md : 문제 회고 + 소스코드
+- .cpp : 소스코드
 ## Directory
 ### :star: AlgoSpot
 ### :star: BaeckJoon
