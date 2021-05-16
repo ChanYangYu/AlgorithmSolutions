@@ -2,6 +2,7 @@
 ## Type of file
 - .md : 문제 회고 + 소스코드
 - .cpp : 소스코드
+
 ## Directory
 ### :star: AlgoSpot
 ### :star: BaeckJoon
@@ -15,6 +16,7 @@
 - 시뮬레이션과 구현
 ### :star: Programmers
 - 2019 카카오 개발자 겨울 인턴십
+- 2020 카카오 인턴십
 - 2021 KAKAO BLIND RECRUITMENT
 - 그래프
 - 다이나믹 프로그래밍
