@@ -28,7 +28,7 @@
 ### :star: Softeer
 ### :star: SW Expert Academy
 - D2
-- D3
+- D3 
 ## 출처
 - 백준 : https://www.acmicpc.net/
 - 프로그래머스 : https://programmers.co.kr/
