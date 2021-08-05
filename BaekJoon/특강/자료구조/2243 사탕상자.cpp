@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define ll long long
 #define pii pair<int,int>
-using namespace std;
+using namespace std; 
 
 int tr[1<<21];
 int max_tr[1<<21];
