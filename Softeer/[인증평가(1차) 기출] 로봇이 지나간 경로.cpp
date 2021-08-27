@@ -75,14 +75,6 @@ string execute(int y, int x, int d){
         }
         else
             break;
-        
-//		for(int i = 1; i <= h; i++){
-//			for(int j = 1; j <= w; j++)
-//				cout<<mp1[i][j];
-//			cout<<"\n";
-//		}
-//		
-//		cout<<"\n";
     }
     
     if(cnt == total)
@@ -90,6 +82,7 @@ string execute(int y, int x, int d){
     else
     	return "IMPOSSIBLE";
 }
+
 int main(int argc, char** argv)
 {
     ios_base::sync_with_stdio(false);

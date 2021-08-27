@@ -3,7 +3,7 @@
 - .md : 문제 회고 + 소스코드
 - .cpp : 소스코드
 
-## Directory
+## Directory 
 ### :star: AlgoSpot
 ### :star: BaeckJoon
 - BFS & DFS
