@@ -8,11 +8,8 @@ int result[50][9];
 int order[9];
 int ch[9];
 int max_score;
-int c;
-
 
 void simulation(){
-	c++;
 	bool first = false;
 	bool second = false;
 	bool third = false;
@@ -95,6 +92,7 @@ void simulation(){
 	
 	max_score = max(max_score, score);
 }
+
 void make_order(int number){
 	if(number == 9){
 		simulation();
